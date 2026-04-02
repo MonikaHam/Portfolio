@@ -1,12 +1,12 @@
 /* Add Brown Sugar and Brittany Font */
 @font-face {
   font-family: 'Brown Sugar';
-  src: url('/resources/Brown-Sugar/Brown-Sugar/Brown-Sugar-Regular.otf') format('opentype');
+  src: url('Brown-Sugar-Regular.otf') format('opentype');
 }
 
 @font-face {
   font-family: 'Brittany';
-  src: url('/resources/brittany_signature/BrittanySignature.ttf') format('truetype');
+  src: url('BrittanySignature.ttf') format('truetype');
 }
 
 html {
